@@ -170,7 +170,7 @@ node_pools = [
 > 📧 ahmed.osama.taha2@gmail.com 
 > 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-osama-taha)
 
-For questions, improvements, or merge requests, please contact the maintainer or the DevOps platform team.
+For questions, improvements, or merge requests, please contact the maintainer.
 
 ---
 
