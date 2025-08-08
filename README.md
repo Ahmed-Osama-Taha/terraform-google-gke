@@ -166,7 +166,7 @@ node_pools = [
 ## 👤 Maintainer
 
 > 🛠️ **Ahmed Osama Taha**  
-> DevOps Engineer | Terraform | Kubernetes | GCP  
+> DevOps Engineer  
 > 📧 ahmed.osama.taha2@gmail.com 
 > 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-osama-taha)
 
