@@ -28,7 +28,6 @@ resource "google_container_cluster" "primary" {
   }
 
   ip_allocation_policy {
-    use_ip_aliases = true
   }
 
   # networking_mode = "VPC_NATIVE" # using alias IPs deprecated
